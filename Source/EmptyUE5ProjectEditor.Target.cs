@@ -9,6 +9,6 @@ public class EmptyUE5ProjectEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "EmptyUE5Project" } );
+		ExtraModuleNames.AddRange( new string[] { "EmptyUE5Project", "Foo" } );
 	}
 }

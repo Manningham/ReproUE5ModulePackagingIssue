@@ -9,6 +9,6 @@ public class EmptyUE5ProjectTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "EmptyUE5Project" } );
+		ExtraModuleNames.AddRange( new string[] { "EmptyUE5Project", "Foo" } );
 	}
 }
