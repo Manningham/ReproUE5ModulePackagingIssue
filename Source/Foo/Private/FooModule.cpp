@@ -1,3 +1,3 @@
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_MODULE(FDefaultModuleImpl, FFooModule);
+IMPLEMENT_MODULE(FDefaultModuleImpl, Foo);
